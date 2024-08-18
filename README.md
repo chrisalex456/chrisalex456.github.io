@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Christina's Academic Website - Home</Index>
+    <title>Academic Website - Home</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
     <header>
-        <h1> Christina Alexandrov</h1>
-        <p> Mechanical Engineering Student </p>
+        <h1>Dr. Jane Doe</h1>
+        <p>Professor of Computer Science</p>
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
@@ -23,10 +23,11 @@
 
     <main>
         <h2>Welcome to My Academic Website</h2>
-        <p>Explore my interest, previous projects, skills, and learn more about my academic journey.</p>
+        <p>Explore my research, publications, and learn more about my academic journey.</p>
+    </main>
 
     <footer>
-        <p>&copy; 2024 Christina Alexandrov | All Rights Reserved</p>
+        <p>&copy; 2024 Dr. Jane Doe | All Rights Reserved</p>
     </footer>
 </body>
 </html>
