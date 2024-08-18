@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1> Christina ALexandrov</h1>
+        <h1> Christina Alexandrov</h1>
         <p> Mechanical Engineering Student </p>
         <nav>
             <ul>
