@@ -24,7 +24,6 @@
     <main>
         <h2>Welcome to My Academic Website</h2>
         <p>Explore my interest, previous projects, skills, and learn more about my academic journey.</p>
-    </main>
 
     <footer>
         <p>&copy; 2024 Christina Alexandrov | All Rights Reserved</p>
